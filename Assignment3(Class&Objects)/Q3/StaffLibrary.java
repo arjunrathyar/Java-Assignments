@@ -3,8 +3,6 @@ package com.assignment3.app;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.classwork.model.PhoneBookPerson;
-
 public class StaffLibrary {
 
 	static ArrayList<Staff> staffArray = new ArrayList<Staff>(5);
