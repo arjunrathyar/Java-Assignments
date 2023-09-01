@@ -2,8 +2,6 @@ package com.assignment3.app;
 
 import java.util.Scanner;
 
-import com.classwork.lib.PhoneBookLibrary;
-
 public class StaffMain {
 
 	public static void main(String[] args) {
